@@ -24,7 +24,7 @@ I'm a passionate software developer interested in creating impactful and innovat
 
 ## 📈 GitHub Stats
 
-![Surafel's GitHub stats](https://github-readme-stats.vercel.app/api?username=surafelx&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surafelx&layout=compact&theme=radical)
 
 
@@ -38,7 +38,7 @@ I'm a passionate software developer interested in creating impactful and innovat
 
 ## 📫 How to Reach Me
 
-- Email: surafel@example.com
+- Email: surafel.yimam@celerus.io
 - LinkedIn: [Surafel](https://www.linkedin.com/in/surafel-y-kebede)
 
 
