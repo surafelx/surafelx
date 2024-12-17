@@ -7,8 +7,8 @@ I'm a passionate software developer interested in creating impactful and innovat
 - 🌱 I’m currently learning advanced algorithms and system design.
 - 👯 I’m looking to collaborate on open-source projects and exciting startups.
 - 💬 Ask me about web development, Python, and machine learning.
-- 📫 How to reach me: surafel@example.com
-- ⚡ Fun fact: I love playing chess and hiking in my free time.
+- 📫 How to reach me: surafel.yimam@celerus.io
+- ⚡ Fun fact: I love hiking in my free time.
 
 ## 🛠️ Technologies & Tools
 
