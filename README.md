@@ -39,7 +39,7 @@ I'm a passionate software developer interested in creating impactful and innovat
 ## 📫 How to Reach Me
 
 - Email: surafel.yimam@celerus.io
-- LinkedIn: [Surafel](https://www.linkedin.com/in/surafel-y-kebede)
+- LinkedIn: [Surafel](https://www.linkedin.com/in/surafelykebede)
 
 
 Thanks for visiting! Have a great day! 😊
