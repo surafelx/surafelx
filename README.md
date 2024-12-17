@@ -27,9 +27,6 @@ I'm a passionate software developer interested in creating impactful and innovat
 ![Surafel's GitHub stats](https://github-readme-stats.vercel.app/api?username=surafelx&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surafelx&layout=compact&theme=radical)
 
-## 📌 Pinned Repositories
-
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=surafelx&repo=repo-name&theme=radical)](https://github.com/surafelx/docs.surafel.work)
 
 
 ## 📝 Recent Blog Posts
